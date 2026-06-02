@@ -61,17 +61,19 @@ class AshishJangra:
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 At a Glance
 
 <div align="center">
 
-<img height="175" src="https://streak-stats.demolab.com?user=ashishlandiwal&theme=tokyonight&hide_border=true&v=4"/>
+<img src="https://img.shields.io/github/followers/ashishlandiwal?style=for-the-badge&logo=github&logoColor=white&color=4F46E5&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=ashishlandiwal&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/last-commit/ashishlandiwal/genai-support-assistant-rag?style=for-the-badge&label=Last%20Commit&color=22C55E&labelColor=0D1117&logo=git&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/ashishlandiwal?style=for-the-badge&logo=github&logoColor=white&color=4F46E5&labelColor=0D1117"/>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ashishlandiwal&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Engineer%20Roles-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-GenAI%20%C2%B7%20NLP%20%C2%B7%20MLOps-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Based%20in-India-FF9933?style=for-the-badge"/>
 
 </div>
 
