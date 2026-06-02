@@ -65,7 +65,7 @@ class AshishJangra:
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=ashishlandiwal&theme=tokyonight&hide_border=true&border_radius=8&ring=4F46E5&fire=9333EA&currStreakLabel=4F46E5&sideLabels=C9D1D9&dates=8B949E"/>
+<img height="175" src="https://streak-stats.demolab.com?user=ashishlandiwal&theme=tokyonight&hide_border=true&v=4"/>
 
 <br/><br/>
 
