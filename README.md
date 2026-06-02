@@ -65,13 +65,13 @@ class AshishJangra:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashishlandiwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=4F46E5&icon_color=9333EA"/>
-&nbsp;
-<img height="165" src="https://streak-stats.demolab.com?user=ashishlandiwal&theme=tokyonight&hide_border=true&ring=4F46E5&fire=9333EA&currStreakLabel=4F46E5"/>
+<img height="180" src="https://streak-stats.demolab.com?user=ashishlandiwal&theme=tokyonight&hide_border=true&border_radius=8&ring=4F46E5&fire=9333EA&currStreakLabel=4F46E5&sideLabels=C9D1D9&dates=8B949E"/>
 
 <br/><br/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishlandiwal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=4F46E5"/>
+<img src="https://img.shields.io/github/followers/ashishlandiwal?style=for-the-badge&logo=github&logoColor=white&color=4F46E5&labelColor=0D1117"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ashishlandiwal&style=for-the-badge&color=9333EA&label=PROFILE+VIEWS"/>
 
 </div>
 
