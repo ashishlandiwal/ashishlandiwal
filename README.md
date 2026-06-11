@@ -88,7 +88,8 @@ RAG pipeline with an agent that decides when to answer, re-rank, or **escalate**
 <br/><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 ### 🔧 [LLM Fine-Tuning for Customer Support — QLoRA](https://github.com/ashishlandiwal/support-llm-qlora)
-QLoRA fine-tune of Qwen2.5-1.5B with a stratified base-vs-tuned eval and a hallucination-catching placeholder-fidelity metric. One-click Colab reproduction.
+QLoRA fine-tune of Qwen2.5-0.5B with a stratified base-vs-tuned eval and a hallucination-catching placeholder-fidelity metric.
+`ROUGE-L 0.164 → 0.305 (+87%)` · `placeholder fidelity 0.543 → 0.791` · adapter on HF Hub
 <br/><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-PEFT%2FQLoRA-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/-TRL-8A2BE2?style=flat-square"/>
 
 ### 🧠 [Sentiment Analysis — RNN vs LSTM vs DistilBERT](https://github.com/ashishlandiwal/sentiment-analysis-rnn-lstm-bert)
