@@ -93,8 +93,9 @@ QLoRA fine-tune of Qwen2.5-0.5B with a stratified base-vs-tuned eval and a hallu
 <br/><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-PEFT%2FQLoRA-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/-TRL-8A2BE2?style=flat-square"/>
 
 ### 🧠 [Sentiment Analysis — RNN vs LSTM vs DistilBERT](https://github.com/ashishlandiwal/sentiment-analysis-rnn-lstm-bert)
+<a href="https://huggingface.co/spaces/ashishjangra284/sentiment-analysis-bert"><img src="https://img.shields.io/badge/🤗_Live_Demo-Try_it_now-22C55E?style=flat-square"/></a>
 One pipeline, three architectures, an honest comparison of why transformers win.
-`RNN 49.5%` → `LSTM 71.7%` → `DistilBERT 82.6%`
+`RNN 49.5%` → `LSTM 71.7%` → `DistilBERT 85.3%` · weights on HF Hub
 <br/><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square"/>
 
 ### 🩺 [Breast Cancer Diagnosis — Imbalanced ML](https://github.com/ashishlandiwal/breast-cancer-diagnosis-ml)
