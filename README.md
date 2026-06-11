@@ -82,6 +82,7 @@ class AshishJangra:
 ## 📌 Featured Projects
 
 ### 🤖 [GenAI Support Assistant — RAG + Agentic AI](https://github.com/ashishlandiwal/genai-support-assistant-rag)
+<a href="https://huggingface.co/spaces/ashishjangra284/genai-support-assistant-rag"><img src="https://img.shields.io/badge/🤗_Live_Demo-Try_it_now-22C55E?style=flat-square"/></a>
 RAG pipeline with an agent that decides when to answer, re-rank, or **escalate** instead of hallucinating.
 `100% retrieval hit@4` · `100% grounding` · `100% escalation recall`
 <br/><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/> <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -92,11 +93,13 @@ One pipeline, three architectures, an honest comparison of why transformers win.
 <br/><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square"/>
 
 ### 🩺 [Medical Report Classifier — Imbalanced ML](https://github.com/ashishlandiwal/medical-report-classifier)
+<a href="https://huggingface.co/spaces/ashishjangra284/medical-report-classifier"><img src="https://img.shields.io/badge/🤗_Live_Demo-Try_it_now-22C55E?style=flat-square"/></a>
 Six models + SMOTE, MLflow tracking, auto model card, Streamlit dashboard.
 `97.6% accuracy` · `0.938 macro-F1` · `SMOTE recall 0.70 → 0.80`
 <br/><img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/> <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 ### 🛒 [E-Commerce Customer Segmentation](https://github.com/ashishlandiwal/ecommerce-customer-segmentation)
+<a href="https://huggingface.co/spaces/ashishjangra284/ecommerce-customer-segmentation"><img src="https://img.shields.io/badge/🤗_Live_Demo-Try_it_now-22C55E?style=flat-square"/></a>
 KMeans/DBSCAN + PCA, validated against known ground-truth segments.
 `silhouette 0.435` · `ARI 0.50` · `best k = 3`
 <br/><img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
